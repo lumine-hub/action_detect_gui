@@ -1,0 +1,6 @@
+PyQt5~=5.15.9
+pyqtgraph==0.12.4
+pyserial==3.5
+
+numpy~=1.21.6
+matplotlib~=3.5.3

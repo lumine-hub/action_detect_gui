@@ -1,0 +1,179 @@
+#
+frameNum: 0
+track targets:
+tid: 1; action: stand; posX: -0.761; posY: 1.217; posZ: 3.246; velX: 0.0; velY: 0.0; velZ: 0.0; accX: 1.833; accY: 2.517; accZ: 0.0
+tid: 2; action: out; posX: -0.537; posY: 0.7; posZ: 2.24; velX: 0.0; velY: 0.0; velZ: 0.0; accX: 2.0; accY: 1.967; accZ: 0.0
+#
+frameNum: 0
+track targets:
+#
+frameNum: 0
+track targets:
+#
+frameNum: 0
+track targets:
+#
+frameNum: 0
+track targets:
+#
+frameNum: 0
+track targets:
+#
+frameNum: 0
+track targets:
+#
+frameNum: 0
+track targets:
+#
+frameNum: 0
+track targets:
+#
+frameNum: 0
+track targets:
+#
+frameNum: 0
+track targets:
+#
+frameNum: 0
+track targets:
+#
+frameNum: 0
+track targets:
+#
+frameNum: 0
+track targets:
+#
+frameNum: 0
+track targets:
+#
+frameNum: 0
+track targets:
+#
+frameNum: 0
+track targets:
+#
+frameNum: 0
+track targets:
+#
+frameNum: 0
+track targets:
+#
+frameNum: 0
+track targets:
+#
+frameNum: 0
+track targets:
+#
+frameNum: 0
+track targets:
+#
+frameNum: 0
+track targets:
+#
+frameNum: 0
+track targets:
+#
+frameNum: 0
+track targets:
+#
+frameNum: 0
+track targets:
+#
+frameNum: 0
+track targets:
+#
+frameNum: 0
+track targets:
+#
+frameNum: 0
+track targets:
+#
+frameNum: 0
+track targets:
+#
+frameNum: 0
+track targets:
+#
+frameNum: 0
+track targets:
+tid: 0; action: out; posX: -0.01; posY: 0.374; posZ: 1.866; velX: 0.011; velY: -0.46; velZ: 0.141; accX: 0.995; accY: 1.075; accZ: 0.0
+#
+frameNum: 0
+track targets:
+tid: 0; action: out; posX: -0.134; posY: 0.35; posZ: 1.883; velX: -1.249; velY: -0.231; velZ: 0.093; accX: 0.988; accY: 1.299; accZ: 0.0
+#
+frameNum: 0
+track targets:
+tid: 0; action: out; posX: -0.117; posY: 0.382; posZ: 1.983; velX: -0.495; velY: -0.059; velZ: 0.572; accX: 0.98; accY: 1.12; accZ: 0.0
+#
+frameNum: 0
+track targets:
+tid: 0; action: out; posX: -0.164; posY: 0.394; posZ: 2.039; velX: 0.0; velY: 0.0; velZ: 0.0; accX: 0.98; accY: 1.12; accZ: 0.0
+#
+frameNum: 0
+track targets:
+tid: 0; action: out; posX: -0.098; posY: 0.44; posZ: 2.07; velX: -0.192; velY: 0.162; velZ: 0.701; accX: 0.973; accY: 1.07; accZ: 0.0
+#
+frameNum: 0
+track targets:
+tid: 0; action: out; posX: -0.113; posY: 0.478; posZ: 2.132; velX: 0.0; velY: 0.0; velZ: 0.0; accX: 0.973; accY: 1.07; accZ: 0.0
+#
+frameNum: 0
+track targets:
+tid: 0; action: out; posX: -0.08; posY: 0.463; posZ: 2.033; velX: -0.01; velY: 0.346; velZ: 0.376; accX: 0.966; accY: 0.647; accZ: 0.0
+#
+frameNum: 0
+track targets:
+tid: 0; action: out; posX: -0.065; posY: 0.446; posZ: 2.002; velX: 0.15; velY: 0.193; velZ: 0.047; accX: 0.959; accY: 1.23; accZ: 0.0
+#
+frameNum: 0
+track targets:
+tid: 0; action: out; posX: -0.044; posY: 0.467; posZ: 1.996; velX: 0.0; velY: 0.0; velZ: 0.0; accX: 0.959; accY: 1.23; accZ: 0.0
+#
+frameNum: 0
+track targets:
+tid: 0; action: out; posX: -0.044; posY: 0.467; posZ: 1.996; velX: 0.0; velY: 0.0; velZ: 0.0; accX: 0.959; accY: 1.23; accZ: 0.0
+#
+frameNum: 0
+track targets:
+tid: 0; action: out; posX: -0.044; posY: 0.467; posZ: 1.996; velX: 0.0; velY: 0.0; velZ: 0.0; accX: 0.959; accY: 1.23; accZ: 0.0
+#
+frameNum: 0
+track targets:
+tid: 0; action: out; posX: -0.017; posY: 0.456; posZ: 1.97; velX: 0.363; velY: 0.169; velZ: -0.166; accX: 0.951; accY: 1.186; accZ: 0.0
+#
+frameNum: 0
+track targets:
+tid: 0; action: out; posX: 0.031; posY: 0.458; posZ: 1.968; velX: 0.497; velY: 0.085; velZ: -0.228; accX: 0.944; accY: 1.242; accZ: 0.0
+#
+frameNum: 0
+track targets:
+tid: 0; action: out; posX: 0.036; posY: 0.453; posZ: 1.974; velX: 0.41; velY: -0.018; velZ: -0.227; accX: 0.938; accY: 1.084; accZ: 0.0
+#
+frameNum: 0
+track targets:
+tid: 0; action: out; posX: 0.026; posY: 0.455; posZ: 1.964; velX: 0.302; velY: -0.022; velZ: -0.252; accX: 0.931; accY: 1.027; accZ: 0.0
+#
+frameNum: 0
+track targets:
+tid: 0; action: out; posX: 0.058; posY: 0.444; posZ: 1.937; velX: 0.0; velY: 0.0; velZ: 0.0; accX: 0.931; accY: 1.027; accZ: 0.0
+#
+frameNum: 0
+track targets:
+tid: 0; action: out; posX: 0.058; posY: 0.444; posZ: 1.937; velX: 0.0; velY: 0.0; velZ: 0.0; accX: 0.931; accY: 1.027; accZ: 0.0
+#
+frameNum: 0
+track targets:
+tid: 0; action: out; posX: 0.058; posY: 0.444; posZ: 1.937; velX: 0.0; velY: 0.0; velZ: 0.0; accX: 0.931; accY: 1.027; accZ: 0.0
+#
+frameNum: 0
+track targets:
+tid: 0; action: out; posX: 0.022; posY: 0.307; posZ: 1.669; velX: 0.225; velY: -0.3; velZ: -1.225; accX: 0.924; accY: 0.516; accZ: 0.0
+#
+frameNum: 0
+track targets:
+tid: 0; action: out; posX: 0.047; posY: 0.24; posZ: 1.549; velX: 0.0; velY: 0.0; velZ: 0.0; accX: 0.924; accY: 0.516; accZ: 0.0
+#
+frameNum: 0
+track targets:
+tid: 0; action: out; posX: 0.047; posY: 0.24; posZ: 1.549; velX: 0.0; velY: 0.0; velZ: 0.0; accX: 0.924; accY: 0.516; accZ: 0.0

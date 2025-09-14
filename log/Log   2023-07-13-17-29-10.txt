@@ -1,0 +1,8 @@
+#
+frameNum: 0
+track targets:
+tid: 0; action: stand; posX: -0.65; posY: 0.856; posZ: 1.09; velX: 0.024; velY: 0.004; velZ: 0.003; accX: 0.956; accY: 0.265; accZ: 0.0
+#
+frameNum: 0
+track targets:
+tid: 0; action: out; posX: -0.632; posY: 0.449; posZ: 0.976; velX: -0.302; velY: -0.262; velZ: -0.403; accX: 0.91; accY: 0.247; accZ: 0.0
