@@ -1,7 +1,7 @@
 # ------------------------------------------------
 # 串口相关配置
-cfgSerial = 'COM11'  # cfg串口号
-dataSerial = 'COM12'  # data串口号
+cfgSerial = 'COM9'  # cfg串口号
+dataSerial = 'COM10'  # data串口号
 cfgBaudRate = 115200  # cfg串口波特率
 dataBaudRate = 115200  # data串口波特率
 timeout = 0.01

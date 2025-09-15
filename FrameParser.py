@@ -54,8 +54,9 @@ class FrameParser():
 
             print(f"--- Parsed Target ---")
             print(f"  ID: {target.tid}")
-            print(f"  Position: ({target.posX:.2f}, {target.posY:.2f}, {target.posZ:.2f})")
+            print(f"  Position: ({target.pos.x:.2f}, {target.pos.y:.2f}, {target.pos.z:.2f})")
             print(f"  Action: {target.action}")
             print(f"---------------------")
+
 
         return {'frameId': 0, 'targetsInfo': targetsInfo}, self.track_data
