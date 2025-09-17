@@ -48,5 +48,8 @@ class DataAcquisitionThread(threading.Thread):
                 parser = FrameParser()
                 parser.analyzeSingleFrame(fd)
                 targets, target_data = parser.getTargets()
+                import datetime
+                print(f"[ACQ] {datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S.%f')} targets: {targets}")
+                print(f"[ACQ] {datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S.%f')} target_data: {target_data}")
                 self.targetsQueue.put(targets)
                 self.track_data.append(target_data)

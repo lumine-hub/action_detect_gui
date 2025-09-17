@@ -99,11 +99,11 @@ class CalterahReader():
         incompleteDataIndex = 0 if magicWordsNum <= 1 else next(iter).start()
         self.dataBuffer = dataString[incompleteDataIndex:]
 
-        if framesData:
-            print("--- Raw Frame Data ---")
-            for frame in framesData:
-                print(frame)
-            print("----------------------")
+        # if framesData:
+        #     print("--- Raw Frame Data ---")
+        #     for frame in framesData:
+        #         print(frame)
+        #     print("----------------------")
 
 
         return framesData

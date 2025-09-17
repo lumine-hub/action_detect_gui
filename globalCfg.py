@@ -17,8 +17,8 @@ gui3D = False
 # 下面是2D显示相关参数
 xlim2D = [-4, 4]  # X坐标显示范围
 ylim2D = [0, 7]  # Y坐标显示范围
-xScale2D = 1  # X坐标显示精度
-yScale2D = 1  # Y坐标显示精度
+xScale2D = 0.5  # X坐标显示精度
+yScale2D = 0.5  # Y坐标显示精度
 
 # 下面是3D显示相关参数
 xlim3D = [-4, 4]  # X坐标显示范围

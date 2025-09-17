@@ -1,0 +1,589 @@
+
+开始时间 Mon Sep 15 19:01:13 2025
+[DRAW] 2025-09-15 19:01:13.336388 targets: []
+[DRAW] 2025-09-15 19:01:13.635272 targets: []
+[DRAW] 2025-09-15 19:01:13.935175 targets: []
+[DRAW] 2025-09-15 19:01:14.236112 targets: []
+[DRAW] 2025-09-15 19:01:14.534915 targets: []
+[DRAW] 2025-09-15 19:01:15.084915 targets: []
+[DRAW] 2025-09-15 19:01:15.145082 targets: []
+[DRAW] 2025-09-15 19:01:15.435699 targets: []
+[DRAW] 2025-09-15 19:01:15.736568 targets: []
+[DRAW] 2025-09-15 19:01:16.035703 targets: []
+[DRAW] 2025-09-15 19:01:16.336520 targets: []
+[DRAW] 2025-09-15 19:01:16.647263 targets: []
+[DRAW] 2025-09-15 19:01:16.947174 targets: []
+[DRAW] 2025-09-15 19:01:17.235977 targets: []
+[DRAW] 2025-09-15 19:01:17.545974 targets: []
+[DRAW] 2025-09-15 19:01:17.846076 targets: []
+[DRAW] 2025-09-15 19:01:18.144974 targets: []
+[DRAW] 2025-09-15 19:01:18.436220 targets: []
+[DRAW] 2025-09-15 19:01:18.736218 targets: []
+[DRAW] 2025-09-15 19:01:19.046121 targets: []
+[DRAW] 2025-09-15 19:01:19.347599 targets: []
+[DRAW] 2025-09-15 19:01:19.646461 targets: []
+[DRAW] 2025-09-15 19:01:19.935712 targets: []
+[DRAW] 2025-09-15 19:01:20.237418 targets: []
+[DRAW] 2025-09-15 19:01:20.548313 targets: []
+[DRAW] 2025-09-15 19:01:20.846172 targets: []
+[DRAW] 2025-09-15 19:01:21.138928 targets: []
+[DRAW] 2025-09-15 19:01:21.448855 targets: []
+[DRAW] 2025-09-15 19:01:21.746658 targets: []
+[DRAW] 2025-09-15 19:01:22.045531 targets: []
+[DRAW] 2025-09-15 19:01:22.342729 targets: []
+[DRAW] 2025-09-15 19:01:22.639013 targets: []
+[DRAW] 2025-09-15 19:01:22.937332 targets: []
+[DRAW] 2025-09-15 19:01:23.246442 targets: []
+[DRAW] 2025-09-15 19:01:23.541992 targets: []
+[DRAW] 2025-09-15 19:01:23.838678 targets: []
+[DRAW] 2025-09-15 19:01:24.136297 targets: []
+[DRAW] 2025-09-15 19:01:24.444373 targets: []
+[DRAW] 2025-09-15 19:01:24.742370 targets: []
+[DRAW] 2025-09-15 19:01:25.038668 targets: []
+[DRAW] 2025-09-15 19:01:25.348746 targets: []
+[DRAW] 2025-09-15 19:01:25.647462 targets: []
+[DRAW] 2025-09-15 19:01:25.944896 targets: []
+[DRAW] 2025-09-15 19:01:26.258595 targets: []
+--- Parsed Target ---
+  ID: 0
+  Position: (0.71, 0.72, 1.20)
+  Action: 1
+---------------------
+[DRAW] 2025-09-15 19:01:26.570064 targets: [<Target.Target object at 0x0000026BCD8DD940>]
+--- Parsed Target ---
+  ID: 0
+  Position: (0.65, 0.81, 1.15)
+  Action: 1
+---------------------
+[DRAW] 2025-09-15 19:01:26.849588 targets: [<Target.Target object at 0x0000026BCD8DD910>]
+--- Parsed Target ---
+  ID: 0
+  Position: (0.60, 0.84, 1.15)
+  Action: 1
+---------------------
+[DRAW] 2025-09-15 19:01:27.160424 targets: [<Target.Target object at 0x0000026BCD8DE5A0>]
+--- Parsed Target ---
+  ID: 0
+  Position: (0.56, 0.66, 1.23)
+  Action: 1
+---------------------
+[DRAW] 2025-09-15 19:01:27.456036 targets: [<Target.Target object at 0x0000026BCD8DD7C0>]
+--- Parsed Target ---
+  ID: 0
+  Position: (0.44, 0.46, 1.30)
+  Action: 1
+---------------------
+[DRAW] 2025-09-15 19:01:27.754939 targets: [<Target.Target object at 0x0000026BCD8DD2B0>]
+--- Parsed Target ---
+  ID: 0
+  Position: (0.49, 0.62, 1.53)
+  Action: 1
+---------------------
+[DRAW] 2025-09-15 19:01:28.068267 targets: [<Target.Target object at 0x0000026BCD8DD8E0>]
+--- Parsed Target ---
+  ID: 0
+  Position: (0.34, 0.76, 1.56)
+  Action: 1
+---------------------
+[DRAW] 2025-09-15 19:01:28.363750 targets: [<Target.Target object at 0x0000026BCD8DD8B0>]
+--- Parsed Target ---
+  ID: 0
+  Position: (0.17, 0.88, 1.62)
+  Action: 1
+---------------------
+[DRAW] 2025-09-15 19:01:28.660724 targets: [<Target.Target object at 0x0000026BCD8DD9A0>]
+--- Parsed Target ---
+  ID: 0
+  Position: (0.03, 0.87, 1.61)
+  Action: 1
+---------------------
+[DRAW] 2025-09-15 19:01:28.956508 targets: [<Target.Target object at 0x0000026BCD8DE570>]
+--- Parsed Target ---
+  ID: 0
+  Position: (0.02, 0.80, 1.62)
+  Action: 1
+---------------------
+[DRAW] 2025-09-15 19:01:29.254925 targets: [<Target.Target object at 0x0000026BCD8DD970>]
+--- Parsed Target ---
+  ID: 0
+  Position: (-0.08, 0.80, 1.61)
+  Action: 1
+---------------------
+[DRAW] 2025-09-15 19:01:29.551882 targets: [<Target.Target object at 0x0000026BCD8DE5D0>]
+--- Parsed Target ---
+  ID: 0
+  Position: (-0.25, 0.86, 1.61)
+  Action: 1
+---------------------
+[DRAW] 2025-09-15 19:01:29.863019 targets: [<Target.Target object at 0x0000026BCD8DE540>]
+--- Parsed Target ---
+  ID: 0
+  Position: (-0.31, 0.93, 1.59)
+  Action: 1
+---------------------
+[DRAW] 2025-09-15 19:01:30.156554 targets: [<Target.Target object at 0x0000026BCD8DE630>]
+--- Parsed Target ---
+  ID: 0
+  Position: (-0.33, 1.07, 1.64)
+  Action: 1
+---------------------
+--- Parsed Target ---
+  ID: 1
+  Position: (-1.03, 3.32, -1.08)
+  Action: 1
+---------------------
+[DRAW] 2025-09-15 19:01:30.456208 targets: [<Target.Target object at 0x0000026BCD8DE660>, <Target.Target object at 0x0000026BCD8DEF00>]        
+--- Parsed Target ---
+  ID: 0
+  Position: (-0.17, 1.22, 1.63)
+  Action: 1
+---------------------
+--- Parsed Target ---
+  ID: 1
+  Position: (-1.03, 3.32, -1.08)
+  Action: 1
+---------------------
+[DRAW] 2025-09-15 19:01:30.754298 targets: [<Target.Target object at 0x0000026BCD8DEE40>, <Target.Target object at 0x0000026BCD8DEFC0>]        
+--- Parsed Target ---
+  ID: 0
+  Position: (-0.07, 1.23, 1.57)
+  Action: 1
+---------------------
+--- Parsed Target ---
+  ID: 1
+  Position: (-1.03, 3.32, -1.08)
+  Action: 1
+---------------------
+[DRAW] 2025-09-15 19:01:31.053027 targets: [<Target.Target object at 0x0000026BCD8DE750>, <Target.Target object at 0x0000026BCD8DF140>]        
+--- Parsed Target ---
+  ID: 0
+  Position: (-0.11, 1.19, 1.54)
+  Action: 1
+---------------------
+[DRAW] 2025-09-15 19:01:31.351258 targets: [<Target.Target object at 0x0000026BCD8DEDE0>]
+--- Parsed Target ---
+  ID: 0
+  Position: (-0.09, 1.18, 1.59)
+  Action: 1
+---------------------
+[DRAW] 2025-09-15 19:01:31.660709 targets: [<Target.Target object at 0x0000026BCD8DF020>]
+--- Parsed Target ---
+  ID: 0
+  Position: (-0.13, 1.11, 1.58)
+  Action: 1
+---------------------
+[DRAW] 2025-09-15 19:01:31.956396 targets: [<Target.Target object at 0x0000026BCD8DF170>]
+--- Parsed Target ---
+  ID: 0
+  Position: (-0.06, 1.13, 1.58)
+  Action: 1
+---------------------
+[DRAW] 2025-09-15 19:01:32.253634 targets: [<Target.Target object at 0x0000026BCD8DE780>]
+--- Parsed Target ---
+  ID: 0
+  Position: (-0.06, 1.24, 1.67)
+  Action: 1
+---------------------
+[DRAW] 2025-09-15 19:01:32.553663 targets: [<Target.Target object at 0x0000026BCD8DE750>]
+--- Parsed Target ---
+  ID: 0
+  Position: (-0.09, 1.32, 1.67)
+  Action: 1
+---------------------
+[DRAW] 2025-09-15 19:01:32.864618 targets: [<Target.Target object at 0x0000026BCD8DF0B0>]
+--- Parsed Target ---
+  ID: 0
+  Position: (-0.20, 1.35, 1.59)
+  Action: 1
+---------------------
+[DRAW] 2025-09-15 19:01:33.147751 targets: [<Target.Target object at 0x0000026BCD8DF1A0>]
+--- Parsed Target ---
+  ID: 0
+  Position: (-0.30, 1.36, 1.55)
+  Action: 1
+---------------------
+[DRAW] 2025-09-15 19:01:33.460436 targets: [<Target.Target object at 0x0000026BCD8DF050>]
+--- Parsed Target ---
+  ID: 0
+  Position: (-0.19, 1.40, 1.58)
+  Action: 1
+---------------------
+[DRAW] 2025-09-15 19:01:33.759081 targets: [<Target.Target object at 0x0000026BCD8DEE40>]
+--- Parsed Target ---
+  ID: 0
+  Position: (-0.13, 1.37, 1.62)
+  Action: 1
+---------------------
+[DRAW] 2025-09-15 19:01:34.056878 targets: [<Target.Target object at 0x0000026BCD8DD9A0>]
+--- Parsed Target ---
+  ID: 0
+  Position: (-0.15, 1.30, 1.59)
+  Action: 1
+---------------------
+[DRAW] 2025-09-15 19:01:34.355437 targets: [<Target.Target object at 0x0000026BCD8DF170>]
+--- Parsed Target ---
+  ID: 0
+  Position: (-0.13, 1.30, 1.68)
+  Action: 1
+---------------------
+[DRAW] 2025-09-15 19:01:34.653613 targets: [<Target.Target object at 0x0000026BCD8DE720>]
+--- Parsed Target ---
+  ID: 0
+  Position: (-0.22, 1.25, 1.67)
+  Action: 1
+---------------------
+[DRAW] 2025-09-15 19:01:34.944543 targets: [<Target.Target object at 0x0000026BCD8DE750>]
+--- Parsed Target ---
+  ID: 0
+  Position: (-0.27, 1.23, 1.66)
+  Action: 1
+---------------------
+[DRAW] 2025-09-15 19:01:35.255675 targets: [<Target.Target object at 0x0000026BCD8DE600>]
+--- Parsed Target ---
+  ID: 0
+  Position: (-0.16, 1.21, 1.56)
+  Action: 1
+---------------------
+[DRAW] 2025-09-15 19:01:35.549970 targets: [<Target.Target object at 0x0000026BCD8DF1A0>]
+--- Parsed Target ---
+  ID: 0
+  Position: (-0.08, 1.24, 1.53)
+  Action: 1
+---------------------
+[DRAW] 2025-09-15 19:01:35.844017 targets: [<Target.Target object at 0x0000026BCD8DF020>]
+--- Parsed Target ---
+  ID: 0
+  Position: (-0.10, 1.31, 1.57)
+  Action: 1
+---------------------
+[DRAW] 2025-09-15 19:01:36.154933 targets: [<Target.Target object at 0x0000026BCD8DE630>]
+--- Parsed Target ---
+  ID: 0
+  Position: (-0.13, 1.39, 1.67)
+  Action: 1
+---------------------
+[DRAW] 2025-09-15 19:01:36.452878 targets: [<Target.Target object at 0x0000026BCD8DEFC0>]
+--- Parsed Target ---
+  ID: 0
+  Position: (-0.18, 1.43, 1.71)
+  Action: 1
+---------------------
+[DRAW] 2025-09-15 19:01:36.744377 targets: [<Target.Target object at 0x0000026BCD8DF230>]
+--- Parsed Target ---
+  ID: 0
+  Position: (-0.09, 1.37, 1.76)
+  Action: 1
+---------------------
+[DRAW] 2025-09-15 19:01:37.050738 targets: [<Target.Target object at 0x0000026BCD8DF0B0>]
+--- Parsed Target ---
+  ID: 0
+  Position: (-0.03, 1.29, 1.65)
+  Action: 1
+---------------------
+[DRAW] 2025-09-15 19:01:37.345523 targets: [<Target.Target object at 0x0000026BCD8DD970>]
+--- Parsed Target ---
+  ID: 0
+  Position: (-0.06, 1.25, 1.66)
+  Action: 1
+---------------------
+[DRAW] 2025-09-15 19:01:37.652412 targets: [<Target.Target object at 0x0000026BCD8DF290>]
+--- Parsed Target ---
+  ID: 0
+  Position: (-0.07, 1.27, 1.67)
+  Action: 1
+---------------------
+[DRAW] 2025-09-15 19:01:37.947165 targets: [<Target.Target object at 0x0000026BCD8DD9A0>]
+--- Parsed Target ---
+  ID: 0
+  Position: (-0.07, 1.32, 1.71)
+  Action: 1
+---------------------
+[DRAW] 2025-09-15 19:01:38.260740 targets: [<Target.Target object at 0x0000026BCD8DF1D0>]
+--- Parsed Target ---
+  ID: 0
+  Position: (-0.09, 1.36, 1.69)
+  Action: 1
+---------------------
+[DRAW] 2025-09-15 19:01:38.555645 targets: [<Target.Target object at 0x0000026BCD8DE720>]
+--- Parsed Target ---
+  ID: 0
+  Position: (-0.03, 1.36, 1.58)
+  Action: 1
+---------------------
+[DRAW] 2025-09-15 19:01:38.854156 targets: [<Target.Target object at 0x0000026BCD8DF260>]
+--- Parsed Target ---
+  ID: 0
+  Position: (-0.00, 1.31, 1.52)
+  Action: 1
+---------------------
+[DRAW] 2025-09-15 19:01:39.147602 targets: [<Target.Target object at 0x0000026BCD8DF170>]
+--- Parsed Target ---
+  ID: 0
+  Position: (-0.00, 1.25, 1.48)
+  Action: 1
+---------------------
+[DRAW] 2025-09-15 19:01:39.444065 targets: [<Target.Target object at 0x0000026BCD8DF2F0>]
+--- Parsed Target ---
+  ID: 0
+  Position: (-0.09, 1.16, 1.38)
+  Action: 1
+---------------------
+[DRAW] 2025-09-15 19:01:39.751625 targets: [<Target.Target object at 0x0000026BCD8DF0E0>]
+--- Parsed Target ---
+  ID: 0
+  Position: (-0.11, 1.12, 1.34)
+  Action: 1
+---------------------
+[DRAW] 2025-09-15 19:01:40.050290 targets: [<Target.Target object at 0x0000026BCD8DF3E0>]
+--- Parsed Target ---
+  ID: 0
+  Position: (-0.06, 1.19, 1.39)
+  Action: 1
+---------------------
+[DRAW] 2025-09-15 19:01:40.360634 targets: [<Target.Target object at 0x0000026BCD8DF080>]
+--- Parsed Target ---
+  ID: 0
+  Position: (-0.05, 1.25, 1.44)
+  Action: 1
+---------------------
+[DRAW] 2025-09-15 19:01:40.656580 targets: [<Target.Target object at 0x0000026BCD8DF4D0>]
+--- Parsed Target ---
+  ID: 0
+  Position: (-0.03, 1.29, 1.47)
+  Action: 1
+---------------------
+[DRAW] 2025-09-15 19:01:40.951703 targets: [<Target.Target object at 0x0000026BCD8DF500>]
+--- Parsed Target ---
+  ID: 0
+  Position: (-0.03, 1.28, 1.47)
+  Action: 1
+---------------------
+[DRAW] 2025-09-15 19:01:41.247690 targets: [<Target.Target object at 0x0000026BCD8DF470>]
+--- Parsed Target ---
+  ID: 0
+  Position: (-0.03, 1.30, 1.48)
+  Action: 1
+---------------------
+[DRAW] 2025-09-15 19:01:41.554512 targets: [<Target.Target object at 0x0000026BCD8DEFF0>]
+--- Parsed Target ---
+  ID: 0
+  Position: (-0.02, 1.32, 1.50)
+  Action: 1
+---------------------
+[DRAW] 2025-09-15 19:01:41.854074 targets: [<Target.Target object at 0x0000026BCD8DF530>]
+--- Parsed Target ---
+  ID: 0
+  Position: (-0.02, 1.32, 1.50)
+  Action: 1
+---------------------
+[DRAW] 2025-09-15 19:01:42.150622 targets: [<Target.Target object at 0x0000026BCD8DF350>]
+--- Parsed Target ---
+  ID: 0
+  Position: (-0.02, 1.32, 1.50)
+  Action: 1
+---------------------
+[DRAW] 2025-09-15 19:01:42.444394 targets: [<Target.Target object at 0x0000026BCD8DF3B0>]
+--- Parsed Target ---
+  ID: 0
+  Position: (-0.02, 1.32, 1.50)
+  Action: 1
+---------------------
+[DRAW] 2025-09-15 19:01:42.744027 targets: [<Target.Target object at 0x0000026BCD8DFF20>]
+--- Parsed Target ---
+  ID: 0
+  Position: (-0.02, 1.32, 1.50)
+  Action: 1
+---------------------
+[DRAW] 2025-09-15 19:01:43.053225 targets: [<Target.Target object at 0x0000026BCD8DD010>]
+--- Parsed Target ---
+  ID: 0
+  Position: (-0.02, 1.32, 1.50)
+  Action: 1
+---------------------
+[DRAW] 2025-09-15 19:01:43.347554 targets: [<Target.Target object at 0x0000026BCD8DFFB0>]
+--- Parsed Target ---
+  ID: 0
+  Position: (-0.02, 1.32, 1.50)
+  Action: 1
+---------------------
+[DRAW] 2025-09-15 19:01:43.656693 targets: [<Target.Target object at 0x0000026BCD8DD7C0>]
+--- Parsed Target ---
+  ID: 0
+  Position: (-0.02, 1.32, 1.50)
+  Action: 1
+---------------------
+[DRAW] 2025-09-15 19:01:43.951638 targets: [<Target.Target object at 0x0000026BCD8DFEF0>]
+--- Parsed Target ---
+  ID: 0
+  Position: (-0.05, 1.38, 1.63)
+  Action: 1
+---------------------
+[DRAW] 2025-09-15 19:01:44.261725 targets: [<Target.Target object at 0x0000026BCD8DD880>]
+--- Parsed Target ---
+  ID: 0
+  Position: (-0.16, 1.35, 1.67)
+  Action: 1
+---------------------
+[DRAW] 2025-09-15 19:01:44.556751 targets: [<Target.Target object at 0x0000026BCD8DFF80>]
+--- Parsed Target ---
+  ID: 0
+  Position: (-0.18, 1.40, 1.67)
+  Action: 1
+---------------------
+[DRAW] 2025-09-15 19:01:44.856747 targets: [<Target.Target object at 0x0000026BCD8DEFC0>]
+--- Parsed Target ---
+  ID: 0
+  Position: (-0.24, 1.39, 1.62)
+  Action: 1
+---------------------
+[DRAW] 2025-09-15 19:01:45.151292 targets: [<Target.Target object at 0x0000026BCD8DF4A0>]
+--- Parsed Target ---
+  ID: 0
+  Position: (-0.11, 1.32, 1.55)
+  Action: 1
+---------------------
+[DRAW] 2025-09-15 19:01:45.462841 targets: [<Target.Target object at 0x0000026BCD8DFEC0>]
+--- Parsed Target ---
+  ID: 0
+  Position: (-0.08, 1.20, 1.57)
+  Action: 1
+---------------------
+[DRAW] 2025-09-15 19:01:45.758791 targets: [<Target.Target object at 0x0000026BCD8DF350>]
+--- Parsed Target ---
+  ID: 0
+  Position: (-0.09, 1.06, 1.63)
+  Action: 1
+---------------------
+[DRAW] 2025-09-15 19:01:46.066715 targets: [<Target.Target object at 0x0000026BCD8DFFE0>]
+--- Parsed Target ---
+  ID: 0
+  Position: (-0.02, 0.97, 1.65)
+  Action: 1
+---------------------
+[DRAW] 2025-09-15 19:01:46.360060 targets: [<Target.Target object at 0x0000026BCD8DF5F0>]
+--- Parsed Target ---
+  ID: 0
+  Position: (0.10, 0.92, 1.70)
+  Action: 1
+---------------------
+[DRAW] 2025-09-15 19:01:46.655493 targets: [<Target.Target object at 0x0000026BCD8DFF50>]
+--- Parsed Target ---
+  ID: 0
+  Position: (0.21, 0.79, 1.65)
+  Action: 1
+---------------------
+[DRAW] 2025-09-15 19:01:46.965187 targets: [<Target.Target object at 0x0000026BCD8DE7E0>]
+--- Parsed Target ---
+  ID: 0
+  Position: (0.32, 0.56, 1.50)
+  Action: 1
+---------------------
+[DRAW] 2025-09-15 19:01:47.261443 targets: [<Target.Target object at 0x0000026BCD8DFFB0>]
+--- Parsed Target ---
+  ID: 0
+  Position: (0.36, 0.38, 1.42)
+  Action: 1
+---------------------
+[DRAW] 2025-09-15 19:01:47.557689 targets: [<Target.Target object at 0x0000026BCD8DD7C0>]
+--- Parsed Target ---
+  ID: 0
+  Position: (0.54, 0.20, 1.28)
+  Action: 1
+---------------------
+[DRAW] 2025-09-15 19:01:47.850307 targets: [<Target.Target object at 0x0000026BCD8DFEF0>]
+--- Parsed Target ---
+  ID: 0
+  Position: (0.58, 0.14, 1.16)
+  Action: 1
+---------------------
+[DRAW] 2025-09-15 19:01:48.159680 targets: [<Target.Target object at 0x0000026BCD8DD880>]
+--- Parsed Target ---
+  ID: 0
+  Position: (0.55, 0.25, 1.12)
+  Action: 1
+---------------------
+[DRAW] 2025-09-15 19:01:48.443881 targets: [<Target.Target object at 0x0000026BCD8DFF80>]
+--- Parsed Target ---
+  ID: 0
+  Position: (0.64, 0.49, 1.18)
+  Action: 1
+---------------------
+[DRAW] 2025-09-15 19:01:48.756125 targets: [<Target.Target object at 0x0000026BCD8DEFC0>]
+--- Parsed Target ---
+  ID: 0
+  Position: (0.71, 0.42, 1.16)
+  Action: 1
+---------------------
+[DRAW] 2025-09-15 19:01:49.049286 targets: [<Target.Target object at 0x0000026BCD8DF4A0>]
+--- Parsed Target ---
+  ID: 0
+  Position: (0.65, 0.42, 1.10)
+  Action: 1
+---------------------
+[DRAW] 2025-09-15 19:01:49.346302 targets: [<Target.Target object at 0x0000026BCD8DFEC0>]
+--- Parsed Target ---
+  ID: 0
+  Position: (0.63, 0.50, 1.09)
+  Action: 1
+---------------------
+[DRAW] 2025-09-15 19:01:49.656448 targets: [<Target.Target object at 0x0000026BCD8DF350>]
+--- Parsed Target ---
+  ID: 0
+  Position: (0.59, 0.57, 1.11)
+  Action: 1
+---------------------
+[DRAW] 2025-09-15 19:01:49.947242 targets: [<Target.Target object at 0x0000026BCD8DFFE0>]
+--- Parsed Target ---
+  ID: 0
+  Position: (0.59, 0.57, 1.11)
+  Action: 1
+---------------------
+[DRAW] 2025-09-15 19:01:50.245792 targets: [<Target.Target object at 0x0000026BCD8DF5F0>]
+--- Parsed Target ---
+  ID: 0
+  Position: (0.59, 0.57, 1.11)
+  Action: 1
+---------------------
+[DRAW] 2025-09-15 19:01:50.542764 targets: [<Target.Target object at 0x0000026BCD8DFF50>]
+--- Parsed Target ---
+  ID: 0
+  Position: (0.59, 0.57, 1.11)
+  Action: 1
+---------------------
+[DRAW] 2025-09-15 19:01:50.852727 targets: [<Target.Target object at 0x0000026BCD8DE7E0>]
+--- Parsed Target ---
+  ID: 0
+  Position: (0.59, 0.57, 1.11)
+  Action: 1
+---------------------
+[DRAW] 2025-09-15 19:01:51.145896 targets: [<Target.Target object at 0x0000026BCD8DFFB0>]
+--- Parsed Target ---
+  ID: 0
+  Position: (0.59, 0.57, 1.11)
+  Action: 1
+---------------------
+[DRAW] 2025-09-15 19:01:51.453135 targets: [<Target.Target object at 0x0000026BCD8DD7C0>]
+--- Parsed Target ---
+  ID: 0
+  Position: (0.59, 0.57, 1.11)
+  Action: 1
+---------------------
+[DRAW] 2025-09-15 19:01:51.749566 targets: [<Target.Target object at 0x0000026BCD8DFEF0>]
+--- Parsed Target ---
+  ID: 0
+  Position: (0.59, 0.57, 1.11)
+  Action: 1
+---------------------
+[DRAW] 2025-09-15 19:01:52.043748 targets: [<Target.Target object at 0x0000026BCD8DD880>]
+--- Parsed Target ---
+  ID: 0
+  Position: (0.59, 0.57, 1.11)
+  Action: 1
+---------------------
+[DRAW] 2025-09-15 19:01:52.353906 targets: [<Target.Target object at 0x0000026BCD8DFF80>]
+--- Parsed Target ---
+  ID: 0
+  Position: (0.59, 0.57, 1.11)
+  Action: 1
+---------------------
+[DRAW] 2025-09-15 19:01:52.837271 targets: [<Target.Target object at 0x0000026BCD8DEFC0>]

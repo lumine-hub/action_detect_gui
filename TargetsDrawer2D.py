@@ -41,7 +41,8 @@ class TargetsDrawer2D(QWidget):
         axisX = QValueAxis()
         axisX.setMin(globalCfg.xlim2D[0])
         axisX.setMax(globalCfg.xlim2D[1])
-        axisX.setTickCount(int((globalCfg.xlim2D[1] - globalCfg.xlim2D[0] + 1) / globalCfg.xScale2D))
+        axisX.setTickCount(int((globalCfg.xlim2D[1] - globalCfg.xlim2D[0]) / globalCfg.xScale2D) + 1)
+        # axisX.setTickCount(int((globalCfg.xlim2D[1] - globalCfg.xlim2D[0]) / globalCfg.xScale2D))
         axisX.setLabelFormat("%.1f")
         axisX.setTitleText("X轴")
         axisX.setLabelsFont(QFont("Times", 15, QFont.Bold))
@@ -52,7 +53,8 @@ class TargetsDrawer2D(QWidget):
         axisY = QValueAxis()
         axisY.setMin(globalCfg.ylim2D[0])
         axisY.setMax(globalCfg.ylim2D[1])
-        axisY.setTickCount(int((globalCfg.ylim2D[1] - globalCfg.ylim2D[0] + 1) / globalCfg.yScale2D))
+        axisY.setTickCount(int((globalCfg.ylim2D[1] - globalCfg.ylim2D[0]) / globalCfg.yScale2D) + 1)
+        # axisY.setTickCount(int((globalCfg.ylim2D[1] - globalCfg.ylim2D[0]) / globalCfg.yScale2D))
         axisY.setLabelFormat("%.1f")
         axisY.setTitleText("Y轴")
         axisY.setLabelsFont(QFont("Times", 15, QFont.Bold))
@@ -81,6 +83,9 @@ class TargetsDrawer2D(QWidget):
             data = self.dataQueue.get()
             frameId = data['frameId']
             targets = data['targetsInfo']
+            # 打印当前时间和targets
+            import datetime
+            # print(f"[DRAW] {datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S.%f')} targets: {targets}")
             # 绘制数据
             for i, target in enumerate(targets):
                 # 状态文本
